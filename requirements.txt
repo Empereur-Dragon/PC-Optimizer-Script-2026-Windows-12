@@ -1,0 +1,7 @@
+rich
+pillow
+pygetwindow
+opencv-python
+pywin32
+requests
+psutil
